@@ -11,13 +11,15 @@ Board members: TBA
 
 ## Process
 
-To give about this proposal, there are two possibilities:
+To give feedback about this proposal, there are two possibilities:
 * comment on the pull-request discussion tread
 * comment a specific line by clicking in the left margin)
 
 Process description:
 
-1. Once a paper is accepted, the authors have the choice to submit a replication package
+1. Once a paper gets "Minor revision", the decision email contains the following text:
+    * "EMSE encourages open science and reproducible research. Not only is this good for science and the community as a whole (since progress can be faster), there is also strong evidence (TODO add short link) that it leads to more citations and more impact. A revision is no guarantee of future acceptance but if your paper is eventually accepted for publication in EMSE you will have the option to provide a replication package. We suggest to prepare for this already now. To get more information about the open-science initiative, please visit https://github.com/emsejournal/openscience"
+1. Once a paper is accepted, the authors are invited to submit a replication package
     * upon acceptance, one of the EiCs forwards the paper to the Open-Science Chairs who selects a suitable Open-Science board member.
     * the acceptance email explicitly asks to submit a URL to the replication package.
         * email text: "EMSE encourages open-science and reproducible research and your paper can be badged as "open-science". To do so, please send an email containing the URL to the replication package at emsejournal.openscience@chalmers.se. To get more information about the open-science initiative, please visit https://github.com/emsejournal/openscience"
