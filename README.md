@@ -1,39 +1,70 @@
-# EMSE Open-Science Initiative
+# EMSE Open Science Initiative
 
-The Empirical Software Engineering journal (EMSE) wants to encourage open-science and reproducible research.
-This repository describes the process and infrastructure that support this initiative.
-
-## Open-science Board
-
-Chairs: TBA
-
-Board members: TBA
-
-## Process
+___
+**Notes on current version:**
 
 To give feedback about this proposal, there are two possibilities:
 * comment on the pull-request discussion tread
 * comment a specific line by clicking in the left margin)
 
-Process description:
+Note that it is currently discussed with Springer about potential support in the publication platform for the open science metadata and badges in the published PDF.
+___
 
-1. Once a paper gets "Minor revision", the decision email contains the following text:
-    * "EMSE encourages open science and reproducible research. Not only is this good for science and the community as a whole (since progress can be faster), there is also strong evidence (TODO add short link) that it leads to more citations and more impact. A revision is no guarantee of future acceptance but if your paper is eventually accepted for publication in EMSE you will have the option to provide a replication package. We suggest to prepare for this already now. To get more information about the open-science initiative, please visit https://github.com/emsejournal/openscience"
-1. Once a paper is accepted, the authors are invited to submit a replication package
-    * upon acceptance, one of the EiCs forwards the paper to the Open-Science Chairs who selects a suitable Open-Science board member.
+Openness in science is key to fostering progress via transparency, reproducibility, and replicability. Especially open data and open source are two fundamental pillars of open science as both build the core for excellence in evidence-based research. The Empirical Software Engineering journal (EMSE) has therefore decided to explicitly foster open science and reproducible research by encouraging and supporting authors to share their (anonymized and curated) empirical data and source code in form of replication packages. 
+
+The overall goals are:
+* Increasing the transparency, reproducibility, and replicability of research endeavours. This not only supports the immediate credibility of authors' work, but it also provides a common basis for joint community efforts grounded on shared data.
+* Building up an overall body of knowledge in the community leading to widely accepted and well-formed software engineering theories in the long run.
+
+This repository describes the principles, the process, and the infrastructure that support this initiative.
+
+
+## Open Science Board
+
+Chairs: TBA
+
+Board members: TBA
+
+
+## Open Science Principles at EMSE
+
+As for any initiative in a research community, the success of the Open Science Initiative, too, depends on the willingness and the possibilities of authors to disclose their data. Therefore, we strive to implement the Open Science Initiative at EMSE as a community effort with services that aim at encouraging and supporting authors of EMSE articles in opening up their research. The steering and motivating principle is that only openness in empirical research increases the transparency, the reproducibility, and consequently the replicability of our empirical work.
+
+All submissions to EMSE will undergo the same review process regardless of whether authors decide to disclose their data or not. Yet, as the leading journal in empirical research methodologies and their application to software engineering, we strongly encourage all authors to make an effort in supporting this initiative by making data available upon submission (either privately or publicly) and especially upon acceptance (publicly). Authors who cannot disclose non-public data (e.g. industrial data sets that fall under non-disclosure agreements), are asked to please provide an explicit (short) statement in their manuscript.
+
+To make research data sets and research software accessible and citable, we encourage authors to:
+* archive data on preserved archives such as zenodo.org and figshare.com so that the data will receive a DOI and become citable, and 
+* use the CC0 dedication (or the CC-BY 4.0 license) when publishing the data (automatic when using, for instance, zenodo.org or figshare.com).
+
+The replication package disclosed by the authors will then undergo an additional, short, review by the open science board as described next. For that replication package, we ask authors to use archived only repositories and avoid putting data and software on their own (institutional or private) websites or systems like Dropbox, version control systems (SVN, Git), or service like Academia.edu and ResearchGate. Personal websites are prone to changes and errors, and more than 30% of them will not work in a 4 years period. Moreover, nobody should have the ability to delete data once it is public.
+
+
+
+## Process
+
+1. Once a manuscript gets "Minor revision", the decision email contains the following text:
+    * "EMSE encourages open science and reproducible research. Not only is this good for scientific progress and the community as a whole, it also leads to more impact (and citations). A revision is no guarantee of future acceptance, but if your manuscript is eventually accepted for publication in EMSE you will have the option to provide a replication package. We suggest to prepare for this already now. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
+1. Once a manuscript is accepted, the authors are invited to submit a replication package
+    * upon acceptance, one of the EiCs forwards the paper to the Open Science Chairs who selects a suitable Open Science board member.
     * the acceptance email explicitly asks to submit a URL to the replication package.
-        * email text: "EMSE encourages open-science and reproducible research and your paper can be badged as "open-science". To do so, please send an email containing the URL to the replication package at emsejournal.openscience@chalmers.se. To get more information about the open-science initiative, please visit https://github.com/emsejournal/openscience"
+        * email text: "EMSE encourages open science and reproducible research and your paper can be badged as "open science". To do so, please send an email containing the URL to the replication package at emsejournal.openscience@chalmers.se. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
     * the authors are given 2 weeks to submit their replication package.
-1. Once the Open-Science Board receives the URL to the replication package, the Open-Science Chairs asks one member of the Open-Science board to review the package.
-    * The review is made according to a review guideline (TBD, add guidelines)
-    * The open-science reviewer is given two weeks to accept or consolidate a list of questions to the authors
-1. If necessary, the open-science reviewer ask for changes by sending an email to the authors
+1. Once the Open Science Board receives the URL to the replication package, the Open Science Chairs asks one member of the Open Science board to review the package.
+    * The review is made according to a review guideline
+    * The open science reviewer is given two weeks to accept or consolidate a list of questions to the authors
+1. If necessary, the open science reviewer asks for changes by sending an email to the authors
     * the authors are given another two weeks to make the changes.
-1. The open-science reviewer makes his final decision.
-    * If the replication-package is not good enough, the paper is still accepted, and the authors are given with a list of constructive comments on how to improve their open-science practices
-1. If the replication package is considered of good or excellent quality, the authors can add in their final version. "Open-science Replication Package validated by the Open-Science Board"
+1. The open science reviewer makes the final decision.
+    * If the replication-package is rated as unsifficient, the manuscript is still accepted and the authors are given a list of constructive comments on how to improve their open science practices
+	* If the replication package is considered to be of good or excellent quality, the authors can add in their final version. "Open-science Replication Package validated by the Open Science Board". 
 
-Notes:
 
-* It is discussed with Springer about potential support in the publication platform for the open-science metadata and badge in the published PDF.
+## Infrastructure
+
+**This repository will provide**
+
+* Frequently asked questions on preparing a replication package (joint work together with the open science editorial board)
+* Points of contacts in case of questions are not adressed via the FAQ section
+* Review guideline for Open Science board members
+
 
