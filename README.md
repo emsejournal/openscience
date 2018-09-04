@@ -36,7 +36,7 @@ All submissions to EMSE will undergo the same known review process regardless of
 
 To make research data sets and research software accessible and citable, we encourage authors to:
 * archive data on preserved archives such as zenodo.org and figshare.com so that the data will receive a DOI and become citable, and
-* use the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) dedication (or the CC-BY 4.0 license) when publishing the data (automatic when using, for instance, zenodo.org or figshare.com).
+* use the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) dedication (or the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)) when publishing the data (automatic when using, for instance, zenodo.org or figshare.com).
 
 Those *replication packages* disclosed by the authors will then undergo an additional, short, review by the open science board as described next. When archiving data as part of a replication package, we ask authors to attend to the [FAIR](https://www.force11.org/group/fairgroup/fairprinciples), i.e. data should be:
 * Findable,
