@@ -3,10 +3,10 @@
 ___
 **Notes on current version:**
 
-To give feedback about this proposal, there are two possibilities:
-* comment on the pull-request discussion tread
+Please note that the current version describes the basic principles and process for the envisioned open science initiative. Details on the process, such as how to communicate with the authors, are subject to current discussions (e.g. with Springer). To give feedback about this proposal, there are three possibilities:
+* comment directly via email
+* comment on the pull-request discussion thread
 * comment a specific line by clicking in the left margin)
-
 ___
 
 Openness in science is key to fostering progress via transparency, reproducibility, and replicability. Especially open data and open source are two fundamental pillars in open science as both build the core for excellence in evidence-based research. The Empirical Software Engineering journal (EMSE) has therefore decided to explicitly foster open science and reproducible research by encouraging and supporting authors to share their (anonymized and curated) empirical data and source code in form of replication packages.
@@ -15,19 +15,22 @@ The overall goals are:
 * Increasing the transparency, reproducibility, and replicability of research endeavours. This not only supports the immediate credibility of authors' work, but it also provides a common basis for joint community efforts grounded on shared data.
 * Building up an overall body of knowledge in the community leading to widely accepted and well-formed software engineering theories in the long run.
 
-This repository describes the principles, the process, and the infrastructure that support this initiative.
+This document describes the principles, the process, and the infrastructure that support this initiative.
 
 
 ## Open Science Board
 
-Chairs: TBA
+Chairs:
+Daniel Méndez, Technical University of Munich, Germany
+Martin Monperrus, KTH Royal Institute of Technology, Sweden
 
-Board members: TBA
+Board members:
+TBD (we would start with 5-6 members)
 
 
 ## Open Science Principles at EMSE
 
-As for any initiative in a research community, the success of the Open Science Initiative, too, depends on the willingness and the possibilities of authors to disclose their data. Therefore, we strive to implement the Open Science Initiative at EMSE as a community effort with services that aim at encouraging and supporting authors of EMSE articles in opening up their research. The steering and motivating principle is that only openness in empirical research increases the transparency of research in a way such that the authors' empirical analyses can be reproduced, fully understood, and ideally replicated by others not involved in the research. To this end, we aim at promoting a data-sharing culture where authors publicly archive their data and related material required to understand and reproduce the claims and analyses presented by them in their manuscripts. Our hope is to move our community forward to the point where open science becomes the norm.
+As for any initiative in a research community, the success of the Open Science Initiative, too, depends on the willingness and the possibilities of authors to disclose their data. Therefore, we strive to implement the Open Science Initiative at EMSE as a community effort with services that aim at encouraging and supporting authors of EMSE articles in opening up their research. The steering and motivating principle is that only openness in empirical research increases the transparency of research in a way such that the authors' empirical analyses can be reproduced, fully understood, and ideally replicated by others not involved in the research. To this end, we aim at promoting a data-sharing culture where authors publicly archive their data and related material required to understand and reproduce the claims and analyses presented by them in their manuscripts. Our hope is to move our community as a whole forward to the point where open science becomes the norm.
 
 All submissions to EMSE will undergo the same known review process regardless of whether authors decide to disclose their data or not. Yet, as the leading journal in empirical research methodologies and their application to software engineering, we strongly encourage all authors to make an effort in supporting this initiative by making data available upon submission (either privately or publicly) and especially upon acceptance (publicly). Authors who cannot disclose non-public data (e.g. industrial data sets that fall under non-disclosure agreements), are asked to please provide an explicit and short statement in their manuscript.
 
