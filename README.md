@@ -62,8 +62,10 @@ Authors should therefore use archived only repositories and avoid putting data a
 1. If necessary, the open science reviewer asks for changes by sending an email to the authors
     * the authors are given another two weeks to make the changes.
 1. The open science reviewer makes the final decision.
-    * If the replication-package is rated as unsifficient, the manuscript is still accepted and the authors are given a list of constructive comments on how to improve their open science practices
+    * If the replication-package is rated as insufficient, the manuscript is still accepted and the authors are given a list of constructive comments on how to improve their open science practices
 	* If the replication package is considered to be of good or excellent quality, the authors can add in their final version. "Open-science Replication Package validated by the Open Science Board".
+
+Throughout the whole communication process, the Open Science co-Chairs serve as mediator between the authors and the Open Science Board members in a, for now, single blind process.
 
 
 ## Infrastructure
