@@ -35,7 +35,7 @@ As for any initiative in a research community, the success of the Open Science I
 All submissions to EMSE will undergo the same known review process regardless of whether authors decide to disclose their data or not. Yet, as the leading journal in empirical research methodologies and their application to software engineering, we strongly encourage all authors to make an effort in supporting this initiative by making data available upon submission (either privately or publicly) and especially upon acceptance (publicly). Authors who cannot disclose non-public data (e.g. industrial data sets that fall under non-disclosure agreements), are asked to please provide an explicit and short statement in their manuscript.
 
 To make research data sets and research software accessible and citable, we encourage authors to:
-* archive data on preserved archives such as [zenodo.org](zenodo.org) and [figshare.com](figshare.com) so that the data will receive a [DOI](https://www.doi.org/) and become citable, and
+* archive data on preserved archives such as [zenodo.org](https://zenodo.org) and [figshare.com](https://figshare.com) so that the data will receive a [DOI](https://www.doi.org/) and become citable, and
 * use the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) dedication (or the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)) when publishing the data (automatic when using, for instance, zenodo.org or figshare.com).
 
 Those *replication packages* disclosed by the authors will then undergo an additional, short, review by the open science board as described next. When archiving data as part of a replication package, we ask authors to attend to the [FAIR](https://www.force11.org/group/fairgroup/fairprinciples), i.e. data should be:
