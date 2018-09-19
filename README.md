@@ -67,6 +67,7 @@ Authors should therefore use archived only repositories and avoid putting data a
 
 Throughout the whole communication process, the Open Science co-Chairs serve as mediator between the authors and the Open Science Board members in a, for now, single blind process.
 
+The [Frequently Asked Questions](FAQ.md) provides additional information.
 
 ## Infrastructure
 
