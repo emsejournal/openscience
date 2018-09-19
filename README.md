@@ -58,7 +58,8 @@ Authors should therefore use archived only repositories and avoid putting data a
     * the authors are given 2 weeks to submit their replication package.
 1. Once the Open Science Board receives the URL to the replication package, the Open Science Chairs asks one member of the Open Science board to review the package.
     * The review is made according to a review guideline
-    * The open science reviewer is given two weeks to accept or consolidate a list of questions to the authors
+    * The open-sience reviewer is given two weeks to accept or consolidate a list of questions to the authors
+    * The open-science review is blinded, the open-sience reviewer does not sign her review
 1. If necessary, the open science reviewer asks for changes by sending an email to the authors
     * the authors are given another two weeks to make the changes.
 1. The open science reviewer makes the final decision.
