@@ -1,31 +1,11 @@
 # EMSE Open Science Initiative
 
-___
-**Notes on current version:**
 
-Please note that the current version describes the basic principles and process for the envisioned open science initiative. Details on the process, such as how to communicate with the authors, are subject to current discussions (e.g. with Springer). To give feedback about this proposal, there are three possibilities:
-* comment directly via email
-* comment on the pull-request discussion thread
-* comment a specific line by clicking in the left margin)
-___
-
-Openness in science is key to fostering progress via transparency, reproducibility, and replicability. Especially open data and open source are two fundamental pillars in open science as both build the core for excellence in evidence-based research. The Empirical Software Engineering journal (EMSE) has therefore decided to explicitly foster open science and reproducible research by encouraging and supporting authors to share their (anonymized and curated) empirical data and source code in form of replication packages.
-
-The overall goals are:
-* Increasing the transparency, reproducibility, and replicability of research endeavours. This not only supports the immediate credibility of authors' work, but it also provides a common basis for joint community efforts grounded on shared data.
+Openness in science is key to fostering progress via transparency, reproducibility, and replicability. Especially open data and open source are two fundamental pillars in open science as both build the core for excellence in evidence-based research. The Empirical Software Engineering journal (EMSE) has therefore decided to explicitly foster open science and reproducible research by encouraging and supporting authors to share their (anonymized and curated) empirical data and source code in form of replication packages. The overall goals are:
+* Increasing the transparency, reproducibility, and replicability of research endeavours. This supports the immediate credibility of authors' work, and it also provides a common basis for joint community efforts grounded on shared data.
 * Building up an overall body of knowledge in the community leading to widely accepted and well-formed software engineering theories in the long run.
 
 This document describes the principles, the process, and the infrastructure that support this initiative.
-
-
-## Open Science Board
-
-Chairs:
-Daniel Méndez, Technical University of Munich, Germany
-Martin Monperrus, KTH Royal Institute of Technology, Sweden
-
-Board members:
-TBD (we would start with 5-6 members)
 
 
 ## Open Science Principles at EMSE
@@ -46,6 +26,15 @@ Those *replication packages* disclosed by the authors will then undergo an addit
 
 Authors should therefore use archived only repositories and avoid putting data and software on their own (institutional or private) websites or systems like Dropbox, version control systems (SVN, Git), or service like Academia.edu and ResearchGate. Personal websites are prone to changes and errors, and more than 30% of them will not work in a 4 years period. Moreover, nobody should have the ability to delete data once it is public.
 
+## Open Science Board
+
+* [Daniel Méndez](https://www4.in.tum.de/~mendezfe/), Technical University of Munich (Chair)
+* [Martin Monperrus](http://www.monperrus.net/martin/), KTH Royal Institute of Technology (Chair)
+* [Rene Just](https://people.cs.umass.edu/~rjust/), University of Massachusetts Amherst
+* [Daniel Graziotin](http://www.iste.uni-stuttgart.de/se/menschen/graziotin.html), Uni. Stuttgart
+* [Sira Vegas](http://www.grise.upm.es/htdocs/miembros/sira/), Universidad Politécnica de Madrid 
+* [Neil Ernst](https://www.uvic.ca/engineering/software/research/our-researchers/ernst-neil.php), University of Victoria
+* [Chakkrit Tantithamthavorn](http://chakkrit.com/), University of Adelaide 
 
 ## Process
 
@@ -53,8 +42,7 @@ Authors should therefore use archived only repositories and avoid putting data a
     * "EMSE encourages open science and reproducible research. Not only is this good for scientific progress and the community as a whole, it also leads to more impact (and citations). A revision is no guarantee of future acceptance, but if your manuscript is eventually accepted for publication in EMSE you will have the option to provide a replication package. We suggest to prepare for this already now. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
 1. Once a manuscript is accepted, the authors are invited to submit a replication package
     * upon acceptance, one of the EiCs forwards the paper to the Open Science Chairs who selects a suitable Open Science board member.
-    * the acceptance email explicitly asks to submit a URL to the replication package.
-        * email text: "EMSE encourages open science and reproducible research and your paper can be badged as "open science". To do so, please send an email containing the URL to the replication package at emsejournal.openscience@chalmers.se. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
+    * the acceptance email explicitly asks to submit a URL to the replication package. The email text is: "EMSE encourages open science and reproducible research and your paper can be badged as "open science". To do so, please send an email containing the URL to the replication package at emsejournal.openscience@chalmers.se. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
     * the authors are given 2 weeks to submit their replication package.
 1. Once the Open Science Board receives the URL to the replication package, the Open Science Chairs asks one member of the Open Science board to review the package.
     * The review is made according to a review guideline
