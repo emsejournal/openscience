@@ -36,6 +36,8 @@ Authors should therefore use archived only repositories and avoid putting data a
 * [Neil Ernst](https://www.uvic.ca/engineering/software/research/our-researchers/ernst-neil.php), University of Victoria
 * [Chakkrit Tantithamthavorn](http://chakkrit.com/), University of Adelaide 
 
+If you are interested in joining the board and contributing to open-science at EMSE, contact Daniel and Martin by email. 
+
 ## Process
 
 1. Once a manuscript gets "Minor revision", the decision email contains the following text:
