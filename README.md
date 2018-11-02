@@ -41,12 +41,11 @@ If you are interested in joining the board and contributing to open-science at E
 ## Process
 
 1. Once a manuscript gets "Minor revision", the decision email contains the following text:
-    * "EMSE encourages open science and reproducible research. Not only is this good for scientific progress and the community as a whole, it also leads to more impact (and citations). A revision is no guarantee of future acceptance, but if your manuscript is eventually accepted for publication in EMSE you will have the option to provide a replication package. We suggest to prepare for this already now. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
-1. Once a manuscript is accepted, the authors are invited to submit a replication package
-    * upon acceptance, one of the EiCs forwards the paper to the Open Science Chairs who selects a suitable Open Science board member.
-    * the acceptance email explicitly asks to submit a URL to the replication package. The email text is: "EMSE encourages open science and reproducible research and your paper can be badged as "open science". To do so, please send an email containing the URL to the replication package at emsejournal.openscience@chalmers.se. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
+    * "EMSE encourages open science and reproducible research. Not only is this good for scientific progress and the community as a whole, it also leads to more impact (and citations). A revision is no guarantee of future acceptance, but if your manuscript is eventually accepted for publication in EMSE you will have the option to provide a replication package. We suggest to prepare for this already now. Contact us if you have any questions at emsejournal.openscience@gmail.com. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
+1. Once a manuscript get "Accepted", the authors are invited to submit a replication package
+    * the decision email contains the following text: "EMSE encourages open science and reproducible research. Making science more open has been shown to increase impact and citations. Our Open Science Editors and Open Science Board can help you in this process. Please send an email containing the URL to a replication package or contact us if you have any questions at emsejournal.openscience@gmail.com. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
     * the authors are given 2 weeks to submit their replication package.
-1. Once the Open Science Board receives the URL to the replication package, the Open Science Chairs asks one member of the Open Science board to review the package.
+1. When the authors submit a replication package at emsejournal.openscience@gmail.com, the Open Science Chairs ask one member of the Open Science board to review the package.
     * The review is made according to a review guideline
     * The open-sience reviewer is given two weeks to accept or consolidate a list of questions to the authors
     * The open-science review is blinded, the open-sience reviewer does not sign her review
