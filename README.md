@@ -33,7 +33,7 @@ Authors should therefore use archived only repositories and avoid putting data a
 * [Rene Just](https://people.cs.umass.edu/~rjust/), University of Massachusetts Amherst
 * [Daniel Graziotin](http://www.iste.uni-stuttgart.de/se/menschen/graziotin.html), Uni. Stuttgart
 * [Sira Vegas](http://www.grise.upm.es/htdocs/miembros/sira/), Universidad Politécnica de Madrid 
-* [Neil Ernst](https://www.uvic.ca/engineering/software/research/our-researchers/ernst-neil.php), University of Victoria
+* [Neil Ernst](https://www.neilernst.net/), University of Victoria
 * [Chakkrit Tantithamthavorn](http://chakkrit.com/), University of Adelaide 
 
 If you are interested in joining the board and contributing to open-science at EMSE, contact Daniel and Martin by email. 
