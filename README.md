@@ -24,7 +24,7 @@ Those *replication packages* disclosed by the authors will then undergo an addit
 * Interoperable, and
 * Reusable.
 
-Authors should therefore use archived only repositories and avoid putting data and software on their own (institutional or private) websites or systems like Dropbox, version control systems (SVN, Git), or service like Academia.edu and ResearchGate. Personal websites are prone to changes and errors, and more than 30% of them will not work in a 4 years period. Moreover, nobody should have the ability to delete data once it is public.
+Authors should therefore use archival repositories and avoid putting data and software on their own (institutional or private) websites or systems like Dropbox, version control systems (SVN, Git), or service like Academia.edu and ResearchGate. Personal websites are prone to changes and errors, and more than 30% of them will not work in a 4 year period. Moreover, nobody should have the ability to delete data once it is public.
 
 ## Open Science Board
 
@@ -41,14 +41,14 @@ If you are interested in joining the board and contributing to open-science at E
 ## Process
 
 1. Once a manuscript gets "Minor revision", the decision email contains the following text:
-    * "EMSE encourages open science and reproducible research. Not only is this good for scientific progress and the community as a whole, it also leads to more impact (and citations). A revision is no guarantee of future acceptance, but if your manuscript is eventually accepted for publication in EMSE you will have the option to provide a replication package. We suggest to prepare for this already now. Contact us if you have any questions at emsejournal.openscience@gmail.com. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
+    * "EMSE encourages open science and reproducible research. Not only is this good for scientific progress and the community as a whole, it also leads to more impact (and citations). A revision is no guarantee of future acceptance, but if your manuscript is eventually accepted for publication in EMSE you will have the option to provide a replication package. We suggest to prepare for this now. Contact us if you have any questions at emsejournal.openscience@gmail.com. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
 1. Once a manuscript get "Accepted", the authors are invited to submit a replication package
     * the decision email contains the following text: "EMSE encourages open science and reproducible research. Making science more open has been shown to increase impact and citations. Our Open Science Editors and Open Science Board can help you in this process. Please send an email containing the URL to a replication package or contact us if you have any questions at emsejournal.openscience@gmail.com. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
     * the authors are given 2 weeks to submit their replication package.
 1. When the authors submit a replication package at emsejournal.openscience@gmail.com, the Open Science Chairs ask one member of the Open Science board to review the package.
     * The review is made according to a review guideline
-    * The open-sience reviewer is given two weeks to accept or consolidate a list of questions to the authors
-    * The open-science review is blinded, the open-sience reviewer does not sign her review
+    * The open-science reviewer is given two weeks to accept or consolidate a list of questions to the authors
+    * The open-science review is blinded, the open-science reviewer does not sign her review
 1. If necessary, the open science reviewer asks for changes by sending an email to the authors
     * the authors are given another two weeks to make the changes.
 1. The open science reviewer makes the final decision.
@@ -76,5 +76,5 @@ To acknowledge the authors' contribution to open science upon publication of the
 ___
 **Notes:**
 
-Please note that it is currently discussed with Springer how to potentially integrate open science metadata and badges in the publication platform and in the published PDFs. Updates on this and an exact procedures will follow here.
+Please note that it is currently discussed with Springer how to potentially integrate open science metadata and badges in the publication platform and in the published PDFs. Updates on this and an exact procedure will follow here.
 ___
