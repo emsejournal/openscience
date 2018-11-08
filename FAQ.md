@@ -32,5 +32,5 @@ No, the badge signals open data and open science. The absence of badge states do
 **Will the absence of badges discourage research done on industrial proprietary datasets, that is potentially very valuable?**  
 The journal does encourage and support high-quality research based on proprietary datasets which provides novel and unique insights.
 
-**Are there multiple badges of different flavours, like the ones used by [ROSE](https://2018.fseconference.org/track/rosefest-2018)?**  
-The actual badges are being discussed with the publisher. In the beginning, there will probably be one single badge to begin in order to keep things simple.
+**Are there multiple badges of different flavours? What is the connection to the [ACM badging](https://www.acm.org/publications/policies/artifact-review-badging) (used by [ROSE](https://2018.fseconference.org/track/rosefest-2018))?**  
+First, there will be a single badge "Open-science" in order to keep things simple. Then, multiple badges (up to the 5 levels of ACM) may be introduced. The badges are also being discussed with the publisher (Springer).
