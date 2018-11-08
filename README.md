@@ -31,7 +31,7 @@ Authors should therefore use archival repositories and avoid putting data and so
 * [Daniel Méndez](https://www4.in.tum.de/~mendezfe/), Technical University of Munich (Chair)
 * [Martin Monperrus](http://www.monperrus.net/martin/), KTH Royal Institute of Technology (Chair)
 * [Rene Just](https://people.cs.umass.edu/~rjust/), University of Massachusetts Amherst
-* [Daniel Graziotin](http://www.iste.uni-stuttgart.de/se/menschen/graziotin.html), University of Stuttgart
+* [Daniel Graziotin](https://ineed.coffee), University of Stuttgart
 * [Sira Vegas](http://www.grise.upm.es/htdocs/miembros/sira/), Universidad Politécnica de Madrid
 * [Neil Ernst](https://www.neilernst.net/), University of Victoria
 * [Chakkrit Tantithamthavorn](http://chakkrit.com/), University of Adelaide
@@ -42,7 +42,7 @@ If you are interested in joining the board and contributing to open-science at E
 
 1. Once a manuscript gets "Minor revision", the decision email contains the following text:
     * "EMSE encourages open science and reproducible research. Not only is this good for scientific progress and the community as a whole, it also leads to more impact (and citations). A revision is no guarantee of future acceptance, but if your manuscript is eventually accepted for publication in EMSE you will have the option to provide a replication package. We suggest to prepare for this now. Contact us if you have any questions at emsejournal.openscience@gmail.com. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
-1. Once a manuscript get "Accepted", the authors are invited to submit a replication package
+1. Once a manuscript gets "Accepted", the authors are invited to submit a replication package
     * the decision email contains the following text: "EMSE encourages open science and reproducible research. Making science more open has been shown to increase impact and citations. Our Open Science Editors and Open Science Board can help you in this process. Please send an email containing the URL to a replication package or contact us if you have any questions at emsejournal.openscience@gmail.com. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
     * the authors are given 2 weeks to submit their replication package.
 1. When the authors submit a replication package at emsejournal.openscience@gmail.com, the Open Science Chairs ask one member of the Open Science board to review the package.
