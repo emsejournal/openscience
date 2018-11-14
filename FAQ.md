@@ -34,3 +34,6 @@ The journal does encourage and support high-quality research based on proprietar
 
 **Are there multiple badges of different flavours? What is the connection to the [ACM badging](https://www.acm.org/publications/policies/artifact-review-badging) (used by [ROSE](https://2018.fseconference.org/track/rosefest-2018))?**  
 First, there will be a single badge "Open-science" in order to keep things simple. Then, multiple badges (up to the 5 levels of ACM) may be introduced. The badges are also being discussed with the publisher (Springer).
+
+**Do artifacts need to be executable? What about models or diagrams?** 
+Many areas of software engineering do not generate executable artifacts. Non-code artifacts such as UML diagrams/models, requirements text, design documents, etc. are all valid artifacts. If the artifact addresses the topic of the paper and supports replication, that's fine. See here for a lengthier, but not complete, [list of artifacts](https://github.com/researchart/all/blob/master/ListOfArtifacts.md). Finally, we prefer if such artifacts are machine-readable and open, e.g., using an open format such as JSON or XMI, as opposed to Visio, PNG, or PDF.
