@@ -36,7 +36,7 @@ Authors should therefore use archival repositories and avoid putting data and so
 * [Neil Ernst](https://www.neilernst.net/), University of Victoria
 * [Chakkrit Tantithamthavorn](http://chakkrit.com/), University of Adelaide
 
-If you are interested in joining the board and contributing to open-science at EMSE, contact Daniel and Martin by email.
+If you are interested in joining the board and contributing to open science at EMSE, contact Daniel and Martin by email.
 
 ## Process
 
