@@ -73,8 +73,7 @@ To acknowledge the authors' contribution to open science upon publication of the
 1. **Open Data:** The Open Data badge indicates the availability of data necessary to reproduce the reported results publicly available.
 1. **Open Materials:** The Open Materials badge indicates the availability of the components of the research methodology necessary to reproduce the reported procedure and analysis.
 
-___
-**Notes:**
+## See also
 
-Please note that it is currently discussed with Springer how to potentially integrate open science metadata and badges in the publication platform and in the published PDFs. Updates on this and an exact procedure will follow here.
-___
+* https://github.com/INRIA/awesome-open-science-software
+
