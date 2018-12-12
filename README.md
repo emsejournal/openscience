@@ -46,7 +46,7 @@ If you are interested in joining the board and contributing to open science at E
     * the decision email contains the following text: "EMSE encourages open science and reproducible research. Making science more open has been shown to increase impact and citations. Our Open Science Editors and Open Science Board can help you in this process. Please send an email containing the URL to a replication package or contact us if you have any questions at emsejournal.openscience@gmail.com. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
     * the authors are given 2 weeks to submit their replication package.
 1. When the authors submit a replication package at emsejournal.openscience@gmail.com, the Open Science Chairs ask one member of the Open Science board to review the package.
-    * The review is made according to a review guideline
+    * The review is made according to transparent [review criteria](review-criteria.md)
     * The open science reviewer is given two weeks to accept or consolidate a list of questions to the authors
     * The open science review is blinded, the open science reviewer does not sign her review
 1. If necessary, the open science reviewer asks for changes by sending an email to the authors
