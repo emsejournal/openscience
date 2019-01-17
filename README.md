@@ -24,7 +24,7 @@ Those *replication packages* disclosed by the authors will then undergo an addit
 * Interoperable, and
 * Reusable.
 
-Authors should therefore use archival repositories and avoid putting data and software on their own (institutional or private) websites or systems like Dropbox, version control systems (SVN, Git), or service like Academia.edu and ResearchGate. Personal websites are prone to changes and errors, and more than 30% of them will not work in a 4 year period. Moreover, nobody should have the ability to delete data once it is public.
+Authors should therefore use archival repositories and avoid putting data and software on their own (institutional or private) websites or systems like Dropbox, version control systems (SVN, Git), or service like Academia.edu and ResearchGate. Personal websites are prone to changes and errors, and more than 30% of them will not work in a 4 year period. Moreover, nobody should have the ability to delete data once it is public. Finally, the package disclosed via an archival repository should link to the paper (DOI) upon final production of the manuscript.
 
 ## Open Science Board
 

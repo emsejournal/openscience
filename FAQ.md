@@ -1,6 +1,12 @@
 FAQ about the open-science process at EMSE
 ==========================================
 
+**How should the replication packages be disclosed?**  
+We encourage authors to archive their data as part of replication packages on preserved archives such as [zenodo.org](https://zenodo.org/) or [figshare.com](https://figshare.com/) so that the data will receive a [DOI](https://www.doi.org/) and become citable. Further, we recommend the authors to use the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) dedication (or the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)) when publishing the data (automatic when using, for instance, zenodo.org or figshare.com).
+
+Those archives allow updating published replication packages any time. We strongly recommend the authors to update the package information after the review process, once the manuscript is in production and receives a DOI, with a reference to the published manuscript so that the package is citable along the published article.
+
+
 **In this EMSE open science process, what’s the difference between reproducibility and replicability?**  
 There is no consensus across disciplines about the difference between reproducibility and replicability. Often, replicability is seen as the ability to repeat the same study under the very same conditions yielding same results.
 Reproducibility is seen as the ability to independently reproduce the study yielding same or similar results with a given precision. In the EMSE open science process, we make no specific difference for now. The goal is to encourage open data and code so that researchers can reproduce the results (partially or completely), and/or perform further research using this data and code.
