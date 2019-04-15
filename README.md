@@ -30,7 +30,7 @@ Authors should therefore use archival repositories and avoid putting data and so
 
 * [Daniel Méndez](https://www4.in.tum.de/~mendezfe/), Technical University of Munich (Chair)
 * [Martin Monperrus](http://www.monperrus.net/martin/), KTH Royal Institute of Technology (Chair)
-* [Rene Just](https://people.cs.umass.edu/~rjust/), University of Washington
+* [René Just](https://homes.cs.washington.edu/~rjust/), University of Washington
 * [Daniel Graziotin](https://ineed.coffee), University of Stuttgart
 * [Sira Vegas](http://www.grise.upm.es), Universidad Politécnica de Madrid
 * [Neil Ernst](https://www.neilernst.net/), University of Victoria
