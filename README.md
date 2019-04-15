@@ -28,13 +28,13 @@ Authors should therefore use archival repositories and avoid putting data and so
 
 ## Open Science Board
 
-* [Daniel Méndez](https://www4.in.tum.de/~mendezfe/), Technical University of Munich (Chair)
-* [Martin Monperrus](http://www.monperrus.net/martin/), KTH Royal Institute of Technology (Chair)
-* [René Just](https://homes.cs.washington.edu/~rjust/), University of Washington
-* [Daniel Graziotin](https://ineed.coffee), University of Stuttgart
-* [Sira Vegas](http://www.grise.upm.es), Universidad Politécnica de Madrid
-* [Neil Ernst](https://www.neilernst.net/), University of Victoria
-* [Chakkrit Tantithamthavorn](http://chakkrit.com/), Monash University
+* [Daniel Méndez](https://www4.in.tum.de/~mendezfe/) (Chair), Technical University of Munich, Germany
+* [Martin Monperrus](http://www.monperrus.net/martin/) (Chair), KTH Royal Institute of Technology, Sweden
+* [René Just](https://homes.cs.washington.edu/~rjust/), University of Washington, USA
+* [Daniel Graziotin](https://ineed.coffee), University of Stuttgart, Germany
+* [Sira Vegas](http://www.grise.upm.es), Universidad Politécnica de Madrid, Spain
+* [Neil Ernst](https://www.neilernst.net/), University of Victoria, Canada
+* [Chakkrit Tantithamthavorn](http://chakkrit.com/), Monash University, Australia
 
 If you are interested in joining the board and contributing to open science at EMSE, contact Daniel and Martin by email.
 
