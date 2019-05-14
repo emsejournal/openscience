@@ -7,6 +7,8 @@ Openness in science is key to fostering progress via transparency, reproducibili
 
 This document describes the principles, the process, and the infrastructure that support this initiative.
 
+This information is also available in the editorial [The open science initiative of the Empirical Software
+Engineering journal](https://link.springer.com/epdf/10.1007/s10664-019-09712-x) (Published May 2019)
 
 ## Open Science Principles at EMSE
 
