@@ -2,6 +2,9 @@
 
 ## Reproducibility
 
+### General introductions
+- [Open Science in Software Engineering](https://arxiv.org/abs/1904.06499), book chapter highlighting general principles, concepts and terms, and how-to's to open science (with focus on registered reports, open access, and open data) 
+
 ### What different types of reproducibility is there? 
 - [rOpenSci's Introduction](https://ropensci.github.io/reproducibility-guide/sections/introduction/) with an overview to reproducibility
 - Stodden et al (2013). "[Setting the Default to Reproducible: Reproducibility in Computational and Experimental Mathematics](http://stodden.net/icerm_report.pdf)", ICERM workshop.
