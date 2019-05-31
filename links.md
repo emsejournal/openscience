@@ -11,3 +11,7 @@
 
 ### New publication models
 - [ReScience Journal](http://rescience.github.io/) for publishing the replication of existing computational research.
+
+### Research on Reproducibility
+- Allison et al (2018). "[Reproducibility of research: Issues and
+proposed remedies](https://www.pnas.org/content/pnas/115/11/2561.full.pdf)", introduction to special issue, PNAS, 2018.
