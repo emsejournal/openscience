@@ -1,9 +1,9 @@
 # Links on Open Science, Reproducibility, and Replication
 
-## Reproducibility
-
-### General introductions
+## General introductions
 - [Open Science in Software Engineering](https://arxiv.org/abs/1904.06499), book chapter highlighting general principles, concepts and terms, and how-to's to open science (with focus on registered reports, open access, and open data) 
+
+## Reproducibility
 
 ### What different types of reproducibility is there? 
 - [rOpenSci's Introduction](https://ropensci.github.io/reproducibility-guide/sections/introduction/) with an overview to reproducibility
