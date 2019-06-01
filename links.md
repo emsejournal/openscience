@@ -18,3 +18,7 @@
 ### Research on Reproducibility
 - Allison et al (2018). "[Reproducibility of research: Issues and
 proposed remedies](https://www.pnas.org/content/pnas/115/11/2561.full.pdf)", introduction to special issue, PNAS, 2018.
+
+## Other lists of Open Science resources
+
+- [Open Science Software](https://github.com/INRIA/awesome-open-science-software) list collected by Martin Monpeerus
