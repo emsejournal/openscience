@@ -19,6 +19,12 @@
 - Allison et al (2018). "[Reproducibility of research: Issues and
 proposed remedies](https://www.pnas.org/content/pnas/115/11/2561.full.pdf)", introduction to special issue, PNAS, 2018.
 
+## Registered/Pre-registered reports
+
+- [Registered Reports (RR) FAQ](https://osf.io/gha9f/) from OSF
+- [OSF's RR resources](https://osf.io/gha9f/)
+- [RR Facts for Editors](https://osf.io/rux9a/)
+
 ## Other lists of Open Science resources
 
 - [Open Science Software](https://github.com/INRIA/awesome-open-science-software) list collected by Martin Monpeerus
