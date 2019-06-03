@@ -25,6 +25,9 @@ proposed remedies](https://www.pnas.org/content/pnas/115/11/2561.full.pdf)", int
 - [OSF's RR resources](https://osf.io/gha9f/)
 - [RR Facts for Editors](https://osf.io/rux9a/)
 
+### Does Pre-registration lead to different results?
+- Yes, without pre-registration effect size was more than double (0.36 without (N=900) and 0.16 (N=93) with RR) [in this study within psychology by Schäfer and Schwarz](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00813/full): "The Meaningfulness of Effect Sizes in Psychological Research: Differences Between Sub-Disciplines and the Impact of Potential Biases", April 2019, frontiers in Psychology.
+
 ## Other lists of Open Science resources
 
 - [Open Science Software](https://github.com/INRIA/awesome-open-science-software) list collected by Martin Monpeerus
