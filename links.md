@@ -30,4 +30,4 @@ proposed remedies](https://www.pnas.org/content/pnas/115/11/2561.full.pdf)", int
 
 ## Other lists of Open Science resources
 
-- [Open Science Software](https://github.com/INRIA/awesome-open-science-software) list collected by Martin Monpeerus
+- [Open Science Software](https://github.com/INRIA/awesome-open-science-software) list collected by Martin Monperrus
