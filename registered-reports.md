@@ -48,6 +48,14 @@ Courtesy Open Science Foundation/Center For Open Science
 ![workflow](https://cdn.cos.io/media/images/RR_workflow_diagram_600.original.png)
 
 ## FAQ
+Q. How will self-plagiarism be handled? 
+A. Self-plagiarism is where an author includes verbatim text from other, already published work. We expect this to be managed using the existing workshop/extension model; there will be sufficient new content in Phase 2 to clearly indicate this is a new piece of work.
+
+Q. What if I publish my Phase 1 proposal, and then someone scoops me by following the protocol? 
+A. In practice, this seems quite uncommon. However, OSF has mechanisms to manage embargo periods, so this might be something we also consider in the future. Currently the MSR/EMSE model makes embargos impractical. However, tracks such as "new ideas" already pose this potential risk, so we don't anticipate extensive problems.
+
+Other FAQs on RR in general are at the bottom of [the OSF page](https://cos.io/prereg/).
 
 ## Links
 1. https://cos.io/prereg/
+2. See these [links](https://github.com/emsejournal/openscience/blob/master/links.md#registeredpre-registered-reports)
