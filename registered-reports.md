@@ -6,8 +6,10 @@ EMSE, in conjunction with the conference on [Mining Software Repositories](https
 * Reduce/eliminate under-powered, selectively reported, researcher-biased studies.
 
 ## 2 stage review
-* (MSR 2020) Phase 1: Introduction, Methods (including proposed analyses), and Pilot Data (where applicable)
-* (EMSE) Phase 2: full study, after data collection and analysis. Results may be negative! Publication happens if protocol adhered to. Additional exploratory analyses may be conducted, if they are justified. Any deviation from the protocol must be justified and logged in detail to ensure replicability
+* (MSR 2020) Phase 1: Introduction, Methods (including proposed analyses), and Pilot Data (where applicable). In Principle Acceptance.
+* (EMSE) Phase 2: full study, after data collection and analysis. Results may be negative! 
+
+Publication happens if protocol adhered to. Additional exploratory analyses may be conducted, if they are justified. Any deviation from the protocol must be justified and logged in detail to ensure replicability. EMSE J. Editors reserve the right to tighten eligibility criteria if necessary.
 
 ## Phase 1 Criteria
 * Importance of the research question(s).
