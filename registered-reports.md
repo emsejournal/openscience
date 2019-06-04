@@ -40,6 +40,11 @@ MSR 2020 research paper submissions will likely be due January 2020, so we antic
 ## Submissions
 Mechanics for submitting will be clarified and posted here. 
 
+## Expected Workflow
+Courtesy Open Science Foundation/Center For Open Science
+
+![workflow](https://cdn.cos.io/media/images/RR_workflow_diagram_600.original.png)
+
 ## FAQ
 
 ## Links
