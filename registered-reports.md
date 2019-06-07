@@ -57,7 +57,7 @@ A. In practice, this seems quite uncommon. However, OSF has mechanisms to manage
 
 Other FAQs on RR in general are at the bottom of [the OSF page](https://cos.io/prereg/).
 
-Q. Will all accepted papers in Phase 2 be published in one and the same EMSE issue, much like for a "normal" special issue?
+Q. Will all accepted papers in Phase 2 be published in one and the same EMSE issue, much like for a "normal" special issue? <br/>
 A. No, this will depend on the number of accepted papers.
 
 ## Links
