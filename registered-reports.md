@@ -9,9 +9,10 @@ EMSE, in conjunction with the conference on [Mining Software Repositories](https
 * (MSR 2020) Phase 1: Introduction, Methods (including proposed analyses), and Pilot Data (where applicable). In Principle Acceptance.
 * (EMSE) Phase 2: full study, after data collection and analysis. Results may be negative! 
 
-Publication happens if protocol adhered to. Additional exploratory analyses may be conducted, if they are justified. Any deviation from the protocol must be justified and logged in detail to ensure replicability. EMSE J. Editors reserve the right to tighten eligibility criteria if necessary.
+Publication happens if protocol adhered to. Additional exploratory analyses may be conducted, if they are justified. Any deviation from the protocol must be justified and logged in detail to ensure replicability. Depending on the number of accepted papers it will be decided if the papers will be published in one EMSE issue or split over several.
 
 ## Phase 1 Criteria
+* Work is in scope for the MSR conference.
 * Importance of the research question(s).
 * Logic, rationale, and plausibility of the proposed hypotheses.
 * Soundness and feasibility of the methodology and analysis pipeline (including statistical power analysis where appropriate).
@@ -55,6 +56,9 @@ Q. What if I publish my Phase 1 proposal, and then someone scoops me by followin
 A. In practice, this seems quite uncommon. However, OSF has mechanisms to manage embargo periods, so this might be something we also consider in the future. Currently the MSR/EMSE model makes embargos impractical. However, tracks such as "new ideas" already pose this potential risk, so we don't anticipate extensive problems.
 
 Other FAQs on RR in general are at the bottom of [the OSF page](https://cos.io/prereg/).
+
+Q. Will all accepted papers in Phase 2 be published in one and the same EMSE issue, much like for a "normal" special issue?
+A. No, this will depend on the number of accepted papers.
 
 ## Links
 1. https://cos.io/prereg/
