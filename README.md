@@ -18,7 +18,7 @@ All submissions to EMSE will undergo the same known review process regardless of
 
 To make research data sets and research software accessible and citable, we encourage authors to:
 * archive data on preserved archives such as [zenodo.org](https://zenodo.org/) and [figshare.com](https://figshare.com/) so that replication packages remain available in the very long term (on Zenodo, there is a [dedicated community for empirical software engineering](https://zenodo.org/communities/empirical-software-engineering/)).
-* use an appriopriate license, eg the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) dedication (or the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)) .
+* use an appriopriate license, eg the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) for data and the MIT License for code.
 
 Those *replication packages* disclosed by the authors will then undergo an additional, short, review by the open science board as described next. When archiving data as part of a replication package, we ask authors to attend to the [FAIR](https://www.force11.org/group/fairgroup/fairprinciples), i.e. data should be:
 * Findable,
