@@ -10,7 +10,7 @@
 - Stodden et al (2013). "[Setting the Default to Reproducible: Reproducibility in Computational and Experimental Mathematics](http://stodden.net/icerm_report.pdf)", ICERM workshop.
 
 ### How to share credit (attribution) 
-- Stodden's (2009) proposal for a [Reproducible Research Standard](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1362040)(RRS).
+- Stodden's (2009) proposal for a [Reproducible Research Standard](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1362040) (RRS).
 
 ### New publication models
 - [ReScience Journal](http://rescience.github.io/) for publishing the replication of existing computational research.
@@ -24,6 +24,7 @@ proposed remedies](https://www.pnas.org/content/pnas/115/11/2561.full.pdf)", int
 - [Registered Reports (RR) FAQ](https://osf.io/gha9f/) from OSF
 - [OSF's RR resources](https://osf.io/gha9f/)
 - [RR Facts for Editors](https://osf.io/rux9a/)
+- [What's next for Registered Reports?](https://www.nature.com/articles/d41586-019-02674-6) by Chris Chambers
 
 ### Does Pre-registration lead to different results?
 - Yes, without pre-registration effect size was more than double (0.36 without (N=900) and 0.16 (N=93) with RR) [in this study within psychology by Schäfer and Schwarz](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00813/full): "The Meaningfulness of Effect Sizes in Psychological Research: Differences Between Sub-Disciplines and the Impact of Potential Biases", April 2019, frontiers in Psychology.
