@@ -83,3 +83,7 @@ Are you using significance tests? How are you avoiding inflation of type-I error
 
 **Example**: To test for normality, we use a Shapiro-Wilk test. For efficiency, we use a t test / Wilcoxon test depending on the distribution. To evaluate the effect of gender, we use a two-way ANOVA / Friedman test, depending on the distribution.
 
+# Examples
+* Final studies (phase 1 and 2) are available at [this Zotero page](https://www.zotero.org/groups/479248/osf/items/collectionKey/KEJP68G9?) 
+* Example phase 1 registrations can be found at [OSF Registry](https://osf.io/registries/discover?provider=OSF&type=OSF%20Preregistration)
+* A sample phase 1 registration is [a study of tax in economics](https://osf.io/5g7hv/)
