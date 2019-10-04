@@ -7,6 +7,8 @@ Provide the working title of your study. It may be the same title that you submi
 At this stage, we believe that an unblinded/single blind review is most productive
 
 # Structured Abstract (required)
+The abstract should describe in 200 words or so:
+
 ## Background/Context
 What is your research about? Why are you doing this research, why is it interesting?
 
@@ -19,17 +21,14 @@ What exactly are you evaluating? What are the objects of the study?
 
 ## Method
 How are you addressing your objective?
-**Example**: We conduct an observational study and use a between subject design. To analyze the data, we use a t test or Wilcoxon test, depending on the underlying distribution
+**Example**: We conduct an observational study and use a between subject design. To analyze the data, we use a t test or Wilcoxon test, depending on the underlying distribution.
 
 ## Early Results
-Here come the pilot data, if you have any
+Here come the pilot data, if you have any.
 
 ## Limitations
 
-# Introduction
-Give more details on the bigger picture of your study and how it contributes to this bigger picture
-
-## Hypotheses / research questions (required)
+# Hypotheses / research questions (required)
 Clearly state the research hypotheses or research questions that you want to test with your study, and a rationalization for the hypotheses/questions
 
 **Example**: Science officers with their family on board have more sick days than science officers without their family
@@ -37,6 +36,9 @@ Clearly state the research hypotheses or research questions that you want to tes
 Rationale: Since toddlers are often sick, we can expect that crew members with their family onboard need to take sick days more often. 
 
 If you do not have a hypothesis/question, please elaborate why (e.g., we follow a grounded theory approach, in which we generate and refine the hypotheses/questions as we collect data)
+
+# Introduction
+Give more details on the bigger picture of your study and how it contributes to this bigger picture. An important component pf pHase 1 review is assessing the novelty and relevance of the study questions, so be sure to explain this. 
 
 # Variables (required)
 * Independent Variable(s) and their operationalization
