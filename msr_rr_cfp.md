@@ -20,11 +20,11 @@ What exactly are you evaluating? What are the objects of the study?
 **Example**: We are studying whether the frequency of sick days, the work effectiveness and efficiency differ between science officers who bring their family with them, compared to science officers who are serving without their family
 
 ## Method
-How are you addressing your objective?
-**Example**: We conduct an observational study and use a between subject design. To analyze the data, we use a t test or Wilcoxon test, depending on the underlying distribution.
+How are you addressing your objective? What data sources are you using.
+**Example**: We conduct an observational study and use a between subject design. To analyze the data, we use a t test or Wilcoxon test, depending on the underlying distribution. Our data come computer monitoring of Enterprise crew members.
 
 ## Early Results
-Here come the pilot data, if you have any.
+Here come the pilot data, if you have any. Give the reviewer some indication that you have reason to believe this research plan is promising.
 
 ## Limitations
 
