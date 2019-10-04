@@ -26,7 +26,7 @@ Here come the pilot data, if you have any
 
 ## Limitations
 
-# Introduction (optional)
+# Introduction
 Give more details on the bigger picture of your study and how it contributes to this bigger picture
 
 ## Hypotheses / research questions (required)
