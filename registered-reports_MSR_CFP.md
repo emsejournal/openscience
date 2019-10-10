@@ -1,15 +1,17 @@
 # Call for Papers: MSR/EMSE Registered Reports 
 EMSE, in conjunction with the conference on [Mining Software Repositories](https://www.msrconf.org) (MSR), is conducting a pilot RR track. 
 
+See the associated [Author's Guide](msr_rr_cfp.md).
+
 ## What are Registered Reports
 * Methods and proposed analyses are pre-registered and reviewed prior to research being conducted.
 * Reduce/eliminate under-powered, selectively reported, researcher-biased studies.
 
-## 2 stage review
+## Two Phase Review
 * (MSR 2020) Phase 1: Introduction, Methods (including proposed analyses), and Pilot Data (where applicable). In Principle Acceptance.
 * (EMSE) Phase 2: full study, after data collection and analysis. Results may be negative! 
 
-Publication happens if protocol adhered to. Additional exploratory analyses may be conducted, if they are justified. Any deviation from the protocol must be justified and logged in detail to ensure replicability. EMSE J. Editors reserve the right to tighten eligibility criteria if necessary.
+Final publication is straightforward if the original protocol is adhered to, regardless of positive or negative results.  Additional exploratory analyses may be conducted, if they are justified. Any deviation from the protocol must be justified and logged in detail to ensure replicability. EMSE J. Editors reserve the right to tighten eligibility criteria if necessary.
 
 ## Phase 1 Criteria
 * Importance of the research question(s).
