@@ -1,6 +1,7 @@
 # Title (required)
 Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement.
-* **Example**:: Should your family travel with you on the enterprise?
+
+* **Example**: Should your family travel with you on the enterprise?
 * Subtitle (optional): Effect of accompanying families on the work habits of crew members
 
 # Authors (required)
@@ -24,17 +25,16 @@ How are you addressing your objective? What data sources are you using.
 
 **Example**: We conduct an observational study and use a between subject design. To analyze the data, we use a t test or Wilcoxon test, depending on the underlying distribution. Our data come computer monitoring of Enterprise crew members.
 
-
 ## Limitations
 
 # Hypotheses / research questions (required)
-Clearly state the research hypotheses or research questions that you want to test with your study, and a rationalization for the hypotheses/questions
+Clearly state the research hypotheses that you want to test with your study, and a rationalization for the hypotheses. 
 
 **Example**: Science officers with their family on board have more sick days than science officers without their family
 
 Rationale: Since toddlers are often sick, we can expect that crew members with their family onboard need to take sick days more often. 
 
-For now, we focus the registered reports track on confirmatory research, ie. where a well-established hypothesis can be formulated. While pre-registration of exploratory studies may be possible, at this time we focus on the confirmatory reports.
+For now, we focus the registered reports track on confirmatory research, ie. where a well-established hypothesis can be formulated. While pre-registration of exploratory studies may be possible, at this time we focus on the confirmatory reports. The NIER track is a good venue for exploratory/emerging results.
 
 # Introduction
 Give more details on the bigger picture of your study and how it contributes to this bigger picture. An important component pf pHase 1 review is assessing the novelty and relevance of the study questions, so be sure to explain this. 
@@ -78,9 +78,10 @@ How do you describe the data? How do you handle outliers?
 Example: To represent the number of sickdays, we use histograms. Dependending on the distribution, we remove values that are 2 standard deviations above the mean as outliers (normal distribution). If the data are non-normal, we use the median and values below the 10th/above the 90th percentile.
 
 ## How do you evaluate the hypotheses?
-Are you using significance tests? How are you avoiding inflation of type-I error (if applicable)
+How are you testing the significance of your results? Be specific about the epistemological paradigm and statistical paradigm you are using. This will help us assign reviewers familiar with the relevant research strategies.
 
-**Example**: To test for normality, we use a Shapiro-Wilk test. For efficiency, we use a t test / Wilcoxon test depending on the distribution. To evaluate the effect of gender, we use a two-way ANOVA / Friedman test, depending on the distribution.
+**Example**: (Frequentist) To test for normality, we use a Shapiro-Wilk test. For efficiency, we use a t test / Wilcoxon test depending on the distribution. To evaluate the effect of gender, we use a two-way ANOVA / Friedman test, depending on the distribution.
+**Example**: (Bayesian) We derive a posterior predictive distribution by choosing a weakly informative prior with sickdays modeled using a Poisson distribution, and likelihood of gender influence modeled using a normal distribution with mean 0 and s.d. \sigma. We then calculate the 95% and 99% uncertainty intervals and median m and mean μ of the posterior.
 
 # Examples
 * Final studies (phase 1 and 2) are available at [this Zotero page](https://www.zotero.org/groups/479248/osf/items/collectionKey/KEJP68G9?) 
