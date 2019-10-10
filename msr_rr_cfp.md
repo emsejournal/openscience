@@ -21,10 +21,9 @@ What exactly are you evaluating? What are the objects of the study?
 
 ## Method
 How are you addressing your objective? What data sources are you using.
+
 **Example**: We conduct an observational study and use a between subject design. To analyze the data, we use a t test or Wilcoxon test, depending on the underlying distribution. Our data come computer monitoring of Enterprise crew members.
 
-## Early Results
-Here come the pilot data, if you have any. Give the reviewer some indication that you have reason to believe this research plan is promising.
 
 ## Limitations
 
