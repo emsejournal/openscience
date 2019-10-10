@@ -1,4 +1,4 @@
-# Registered Reports 
+# Call for Papers: MSR/EMSE Registered Reports 
 EMSE, in conjunction with the conference on [Mining Software Repositories](https://www.msrconf.org) (MSR), is conducting a pilot RR track. 
 
 ## What are Registered Reports
@@ -30,29 +30,37 @@ Publication happens if protocol adhered to. Additional exploratory analyses may 
 ## Publicity
 * Norman Peitek
 
-## Advisory Program Committee
-(APC members will guide the formulation of the CFP, and review Phase 1 and 2 studies)
+## Program Committee
+(PC members are guiding the formulation of the CFP, and review Phase 1 and 2 studies)
 
 1. Jane Doe
 2. Joe Blø
 
 ## Timeline
-MSR 2020 research paper submissions will likely be due January 2020, so we anticipate requiring Phase 1 registrations by then or shortly afterward.
+|Date|Milestone|
+|----|----|
+|January 10, 2020 | study protocols and plans due|
+|January 31, 2020 |initial protocol reviews|
+|February 14,2020| rebuttals/clarifications due|
+|March 2, 2020 | In Principle Acceptance (IPA) decision notifications|
+|March 16, 2020 | 1 page summary plan / camera-ready| 
+|March 31, 2020|Reports registered with OSF registry| 
 
 ## Submissions
-Mechanics for submitting will be clarified and posted here. 
-
-## Expected Workflow
-Courtesy Open Science Foundation/Center For Open Science
-
-![workflow](https://cdn.cos.io/media/images/RR_workflow_diagram_600.original.png)
+EasyChair will be used to handle Phase 1 reviews and feedback/rebuttal. EMSE's EditorialManager system will be used for the Phase 2 submissions, with OSF managing the registration. Reviews from Phase 1 will be shared with the Phase 2 reviewers.
 
 ## FAQ
-Q. How will self-plagiarism be handled? <br/>
+Q. *How will self-plagiarism be handled?* <br/>
 A. Self-plagiarism is where an author includes verbatim text from other, already published work. We expect this to be managed using the existing workshop/extension model; there will be sufficient new content in Phase 2 to clearly indicate this is a new piece of work.
 
-Q. What if I publish my Phase 1 proposal, and then someone scoops me by following the protocol? <br/>
+Q. *What if I publish my Phase 1 proposal, and then someone scoops me by following the protocol?* <br/>
 A. In practice, this seems quite uncommon. However, OSF has mechanisms to manage embargo periods, so this might be something we also consider in the future. Currently the MSR/EMSE model makes embargos impractical. However, tracks such as "new ideas" already pose this potential risk, so we don't anticipate extensive problems.
+
+Q. *How does this process deal with exploratory studies, where there is no well-defined hypothesis?*<br/>
+A. For now, we strongly suggest such studies target the New Ideas and Emerging Results Track of MSR: . We will focus on studies that have a clear, well-formulated hypothesis. 
+
+Q. *What if my study changes as I gather data?* <br/>
+A. RR have flexibility to deviate from the analysis plan. However, authors will need to provide solid reasons as to why they deviated from the plan.
 
 Other FAQs on RR in general are at the bottom of [the OSF page](https://cos.io/prereg/).
 
