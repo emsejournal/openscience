@@ -30,7 +30,7 @@ How are you addressing your objective? What data sources are you using.
 # Hypotheses / research questions (required)
 Clearly state the research hypotheses that you want to test with your study, and a rationalization for the hypotheses. 
 
-**Example**: Science officers with their family on board have more sick days than science officers without their family
+* **Example**: Science officers with their family on board have more sick days than science officers without their family
 
 Rationale: Since toddlers are often sick, we can expect that crew members with their family onboard need to take sick days more often. 
 
@@ -67,7 +67,7 @@ Describe how and why you select the sample. When you conduct a meta analysis, de
 **Example**: We recruit crew members from the science department on a voluntary basis. They are our targeted population. 
 
 # Execution Plan (required)
-Describe the experimental protocol
+Describe the experimental protocol.
 
 **Example**: Each crew member needs to sign the informed consent and agreement to process his or her data according to GDPR. Then, we conduct the interviews. Afterwards, participants need to complete the simulated task. 
 
@@ -77,11 +77,11 @@ How do you describe the data? How do you handle outliers?
 
 Example: To represent the number of sickdays, we use histograms. Dependending on the distribution, we remove values that are 2 standard deviations above the mean as outliers (normal distribution). If the data are non-normal, we use the median and values below the 10th/above the 90th percentile.
 
-## How do you evaluate the hypotheses?
-How are you testing the significance of your results? Be specific about the epistemological paradigm and statistical paradigm you are using. This will help us assign reviewers familiar with the relevant research strategies.
+## How do you evaluate the practical significance of the hypotheses?
+How are you testing the significance of your results? Be specific about the epistemological paradigm and statistical paradigm you are using. This will help us assign reviewers familiar with the relevant research strategies. See [Neto et al.](https://arxiv.org/pdf/1706.00933.pdf) for more information.
 
-**Example**: (Frequentist) To test for normality, we use a Shapiro-Wilk test. For efficiency, we use a t test / Wilcoxon test depending on the distribution. To evaluate the effect of gender, we use a two-way ANOVA / Friedman test, depending on the distribution.
-**Example**: (Bayesian) We derive a posterior predictive distribution by choosing a weakly informative prior with sickdays modeled using a Poisson distribution, and likelihood of gender influence modeled using a normal distribution with mean 0 and s.d. \sigma. We then calculate the 95% and 99% uncertainty intervals and median m and mean μ of the posterior.
+* **Example**: (Frequentist) To test for normality, we use a Shapiro-Wilk test. For efficiency, we use a t test / Wilcoxon test depending on the distribution. To evaluate the effect of gender, we use a two-way ANOVA / Friedman test, depending on the distribution.
+* **Example**: (Bayesian) We derive a posterior predictive distribution by choosing a weakly informative prior with sickdays modeled using a Poisson distribution, and likelihood of gender influence modeled using a normal distribution with mean 0 and s.d. \sigma. We then calculate the 95% and 99% uncertainty intervals and median m and mean μ of the posterior.
 
 # Examples
 * Final studies (phase 1 and 2) are available at [this Zotero page](https://www.zotero.org/groups/479248/osf/items/collectionKey/KEJP68G9?) 
