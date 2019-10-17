@@ -1,3 +1,5 @@
+**NB: Please [contact the MSR RR track chairs](mailto:nernst@uvic.ca) with any questions, feedback, or requests for clarification. Specific analysis approaches mentioned below are intended as examples, not mandatory components.**
+
 # Title (required)
 Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement.
 
