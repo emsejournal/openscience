@@ -1,7 +1,7 @@
-# Call for Papers: MSR/EMSE Registered Reports 
+# Call for Registrations: MSR/EMSE Registered Reports 
 EMSE, in conjunction with the conference on [Mining Software Repositories](https://www.msrconf.org) (MSR), is conducting a pilot RR track. 
 
-See the associated [Author's Guide](msr_rr_cfp.md).
+See the associated [Author's Guide](msr_rr_cfp.md). Please email the MSR track chairs - [Neil Ernst](mailto:neil@neilernst.net) or Janet Siegmund - for any questions, clarifications, or comments.
 
 ## What are Registered Reports
 * Methods and proposed analyses are pre-registered and reviewed prior to research being conducted.
@@ -50,6 +50,15 @@ Final publication is straightforward if the original protocol is adhered to, reg
 
 ## Submissions
 EasyChair will be used to handle Phase 1 reviews and feedback/rebuttal. EMSE's EditorialManager system will be used for the Phase 2 submissions, with OSF managing the registration. Reviews from Phase 1 will be shared with the Phase 2 reviewers.
+
+### Submission Details
+Submissions should follow the [ACM Conference Proceedings Formatting Guidelines](https://www.acm.org/publications/proceedings-template ). LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst without modification, enable the conference format in the preamble of the document (i.e., \documentclass[sigconf,review]{acmart}), and use the ACM reference format for the bibliography (i.e., \bibliographystyle{ACM-Reference-Format}). The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments.
+
+Follow the template requested in [the author's guide to MSR RR submissions](msr_rr_cfp.md).
+
+Page limit is 4 pages including references.
+
+Review will be unblinded or single blind. There will be a light-weight rebuttal phase, in which authors have the opportunity to clarify unclear parts of the report. However, the rebuttal is not there to make changes to the experimental design.
 
 ## FAQ
 Q. *How will self-plagiarism be handled?* <br/>
