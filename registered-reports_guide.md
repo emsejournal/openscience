@@ -15,12 +15,15 @@ The abstract should describe in 200 words or so:
 ## Background/Context
 What is your research about? Why are you doing this research, why is it interesting?
 
-**Example**: The enterprise is the flag ship of the federation, and it allows families to travel onboard. However, there are no studies that evaluate how this affects the crew members”
+**Example**: The enterprise is the flag ship of the federation, and it allows families to travel onboard. However, there are no studies that evaluate how this affects the crew members.”
 
 ## Objective/Aim
-What exactly are you evaluating? What are the objects of the study?
+What exactly are you studying/investigating/evaluating? What are the objects of the study?
 
-**Example**: We are studying whether the frequency of sick days, the work effectiveness and efficiency differ between science officers who bring their family with them, compared to science officers who are serving without their family
+We welcome both confirmatory and exploratory types of studies.
+
+**Example**: We evaluate whether the frequency of sick days, the work effectiveness and efficiency differ between science officers who bring their family with them, compared to science officers who are serving without their family.
+**Example**: We investigate the problem of frequent Holodeck use on interpersonal relationships with an ethnographic study using participant observation, in order to derive specific hypotheses about Holodeck usage.
 
 ## Method
 How are you addressing your objective? What data sources are you using.
