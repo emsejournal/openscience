@@ -39,10 +39,8 @@ Clearly state the research hypotheses that you want to test with your study, and
 
 Rationale: Since toddlers are often sick, we can expect that crew members with their family onboard need to take sick days more often. 
 
-For now, we focus the registered reports track on confirmatory research, ie. where a well-established hypothesis can be formulated. While pre-registration of exploratory studies may be possible, at this time we focus on the confirmatory reports. The NIER track is a good venue for exploratory/emerging results.
-
 # Introduction
-Give more details on the bigger picture of your study and how it contributes to this bigger picture. An important component pf pHase 1 review is assessing the novelty and relevance of the study questions, so be sure to explain this. 
+Give more details on the bigger picture of your study and how it contributes to this bigger picture. An important component pf phase 1 review is assessing the importance and relevance of the study questions, so be sure to explain this. 
 
 # Variables (required)
 * Independent Variable(s) and their operationalization
