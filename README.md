@@ -18,7 +18,7 @@ All submissions to EMSE will undergo the same known review process regardless of
 
 To make research data sets and research software accessible and citable, we encourage authors to:
 * archive data on preserved archives such as [zenodo.org](https://zenodo.org/) and [figshare.com](https://figshare.com/) so that replication packages remain available in the very long term (on Zenodo, there is a [dedicated community for empirical software engineering](https://zenodo.org/communities/empirical-software-engineering/)).
-* use an appriopriate license, eg the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) dedication (or the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)) .
+* use an appriopriate license, eg the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) for data and the MIT License for code.
 
 Those *replication packages* disclosed by the authors will then undergo an additional, short, review by the open science board as described next. When archiving data as part of a replication package, we ask authors to attend to the [FAIR](https://www.force11.org/group/fairgroup/fairprinciples), i.e. data should be:
 * Findable,
@@ -42,11 +42,9 @@ If you are interested in joining the board and contributing to open science at E
 
 ## Process
 
-1. Once a manuscript gets "Minor revision", the decision email contains the following text:
-    * "EMSE encourages open science and reproducible research. Not only is this good for scientific progress and the community as a whole, it also leads to more impact (and citations). A revision is no guarantee of future acceptance, but if your manuscript is eventually accepted for publication in EMSE you will have the option to provide a replication package. We suggest to prepare for this now. Contact us if you have any questions at emsejournal.openscience@gmail.com. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
-1. Once a manuscript gets "Accepted", the authors are invited to submit a replication package
-    * the decision email contains the following text: "EMSE encourages open science and reproducible research. Making science more open has been shown to increase impact and citations. Our Open Science Editors and Open Science Board can help you in this process. Please send an email containing the URL to a replication package or contact us if you have any questions at emsejournal.openscience@gmail.com. To get more information about the open science initiative, please visit https://github.com/emsejournal/openscience"
-    * the authors are given 2 weeks to submit their replication package.
+1. Once a manuscript gets "Minor revision" or "Acceptance", the decision email contains the following text:
+    * "EMSE encourages open science and reproducible research. We are happy to invite your to submit your open data, open material, or open source code (in the folllowing referred to as "replication package") for an additional, short, review by the open science board. Provided you agree to participate, the board will then review the replication package and check its eligibility to publicly recognise your open science effort with an open science badge. The board will provide you with constructive feedback on content and documentation of the package. To submit your replication package, please send an email to emsejournal.openscience@gmail.com. Should you have any questions, please do not hesitate to contact the open science chairs Daniel Mendez and Martin Monperrus. Note that your decision to participate in the open science initiative will not affect the remaining reviewing and editorial process in any way."
+1. The authors are given 2 weeks to submit their replication package after the final acceptance.
 1. When the authors submit a replication package at emsejournal.openscience@gmail.com, the Open Science Chairs ask one member of the Open Science board to review the package.
     * The review is made according to transparent [review criteria](review-criteria.md)
     * The open science reviewer is given two weeks to accept or consolidate a list of questions to the authors
@@ -122,5 +120,6 @@ Many areas of software engineering do not generate executable artifacts. Non-cod
 ## See also
 
 * [How to make a good open-science repository? (Martin Monperrus)](https://www.monperrus.net/martin/how-to-open-science-software-research)
-* https://github.com/INRIA/awesome-open-science-software
+* [Reproducibility News Feed](https://vida-nyu.github.io/reproducibility-news/feed.rss)
+* [Awesome open-science software](https://github.com/INRIA/awesome-open-science-software)
 
