@@ -120,6 +120,7 @@ Many areas of software engineering do not generate executable artifacts. Non-cod
 ## See also
 
 * [How to make a good open-science repository? (Martin Monperrus)](https://www.monperrus.net/martin/how-to-open-science-software-research)
+* [Open Science in Software Engineering (Daniel Mendez, Daniel Graziotin, Stefan Wagner, Heidi Seibold)](https://arxiv.org/abs/1904.06499)
 * [Reproducibility News Feed](https://vida-nyu.github.io/reproducibility-news/feed.rss)
 * [Awesome open-science software](https://github.com/INRIA/awesome-open-science-software)
 
