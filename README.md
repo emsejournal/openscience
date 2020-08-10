@@ -67,12 +67,12 @@ The [Frequently Asked Questions](FAQ.md) provides additional information.
 * Points of contacts in case of questions are not addressed via the FAQ section
 * Review guideline for Open Science board members
 
-## Badges to Acknowledge Open Science
+## Badge to Acknowledge Open Science
 
-To acknowledge the authors' contribution to open science upon publication of their manuscript and provided successful recommendations by the open science board, we introduce [Open Science Framework badges](https://osf.io/tvyxz/wiki/home/) as a recognition associated with their publication and displayed on their manuscript. In particular, we reward two badges:
-1. **Open Data:** The Open Data badge indicates the availability of data necessary to reproduce the reported results publicly available.
-1. **Open Materials:** The Open Materials badge indicates the availability of the components of the research methodology necessary to reproduce the reported procedure and analysis.
-
+To acknowledge the authors' contribution to open science upon publication of their manuscript and provided successful recommendations by the open science board, a paper is given the "open science badge". The following text is added as a separate title note. The badge note will appear after the “Communicated by”-line
+ 
+    “This paper has been awarded the Empirical Software Engineering (EMSE) open science badge.”
+ 
 ## FAQ
 
 **How should the replication packages be disclosed?**  
