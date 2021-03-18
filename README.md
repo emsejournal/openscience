@@ -40,7 +40,7 @@ Authors should therefore use archival repositories and avoid putting data and so
 
 If you are interested in joining the board and contributing to open science at EMSE, contact Daniel and Martin by email.
 
-## Process
+## Open Science Process
 
 1. Once a manuscript gets "Minor revision" or "Acceptance", the decision email contains the following text:
     * "EMSE encourages open science and reproducible research. We are happy to invite your to submit your open data, open material, or open source code (in the folllowing referred to as "replication package") for an additional, short, review by the open science board. Provided you agree to participate, the board will then review the replication package and check its eligibility to publicly recognise your open science effort with an open science badge. The board will provide you with constructive feedback on content and documentation of the package. To submit your replication package, please send an email to martin.monperrus@csc.kth.se,mendezfe@acm.org. Should you have any questions, please do not hesitate to contact the open science chairs Daniel Mendez and Martin Monperrus. Note that your decision to participate in the open science initiative will not affect the remaining reviewing and editorial process in any way."
@@ -59,20 +59,15 @@ Throughout the whole communication process, the Open Science co-Chairs serve as 
 
 The [Frequently Asked Questions](FAQ.md) provides additional information.
 
-## Infrastructure
+## EMSE papers with the Open Science Badge
 
-**This repository will provide**
-
-* Frequently asked questions on preparing a replication package (joint work together with the open science editorial board)
-* Points of contacts in case of questions are not addressed via the FAQ section
-* Review guideline for Open Science board members
-
-## Badge to Acknowledge Open Science
-
-To acknowledge the authors' contribution to open science upon publication of their manuscript and provided successful recommendations by the open science board, a paper is given the "open science badge". The following text is added as a separate title note. The badge note will appear after the “Communicated by”-line
+When papers are awarded the "Open Science" badge, the following text is added as a separate title note, the badge note appears after the “Communicated by”-line
  
     “This paper has been awarded the Empirical Software Engineering (EMSE) open science badge.”
- 
+
+Springer maintains the ‘Open Science’ topical collection for papers that have been awarded the EMSE open science badge: <https://link.springer.com/journal/10664/topicalCollection/AC_deca3131734b61f9ddc593f577c02eb1/page/1>
+
+
 ## FAQ
 
 **How should the replication packages be disclosed?**  
