@@ -30,7 +30,7 @@ Authors should therefore use archival repositories and avoid putting data and so
 
 ## Open Science Board
 
-* [Daniel Méndez](https://www4.in.tum.de/~mendezfe/) (Chair), Technical University of Munich, Germany
+* [Daniel Méndez](https://www.mendezfe.org) (Chair), Blekinge Institute of Technology, Sweden, and fortiss GmbH, Germany
 * [Martin Monperrus](http://www.monperrus.net/martin/) (Chair), KTH Royal Institute of Technology, Sweden
 * [René Just](https://homes.cs.washington.edu/~rjust/), University of Washington, USA
 * [Daniel Graziotin](https://ineed.coffee), University of Stuttgart, Germany
