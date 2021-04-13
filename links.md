@@ -19,6 +19,11 @@
 - Allison et al (2018). "[Reproducibility of research: Issues and
 proposed remedies](https://www.pnas.org/content/pnas/115/11/2561.full.pdf)", introduction to special issue, PNAS, 2018.
 
+### Tools for Reproducibility
+
+* [Open Science Framework (OSF.io)](https://osf.io) provides project management support for researchers across the entire research lifecycle. Developed by the [Center for Open Science](https://cos.io).
+* [CodeCheck](https://codecheck.org.uk/): guidelines and tools to evaluate computer programs underlying scientific papers
+
 ## Registered/Pre-registered reports
 
 - [Registered Reports (RR) FAQ](https://osf.io/gha9f/) from OSF
@@ -28,9 +33,7 @@ proposed remedies](https://www.pnas.org/content/pnas/115/11/2561.full.pdf)", int
     - Overview and summary of what has been learnt about Registered Reports so far.
 - [The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice](https://www.amazon.com/Seven-Deadly-Sins-Psychology-Scientific/dp/0691192278/ref=sr_1_2?keywords=chris+chambers&qid=1568746957&s=gateway&sr=8-2) by Chris Chambers.
     - Detailed summary of the many problems with bias and unreliability in Psychology (but applicable to many empirical fields). Proposes pre-registration as a main remedy but also discusses other steps that can be taken.
-
-### Does Pre-registration lead to different results?
-- Yes, without pre-registration effect size was more than double (0.36 without (N=900) and 0.16 (N=93) with RR) [in this study within psychology by Schäfer and Schwarz](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00813/full): "The Meaningfulness of Effect Sizes in Psychological Research: Differences Between Sub-Disciplines and the Impact of Potential Biases", April 2019, frontiers in Psychology.
+- Does Pre-registration lead to different results? Yes, without pre-registration effect size was more than double (0.36 without (N=900) and 0.16 (N=93) with RR) [in this study within psychology by Schäfer and Schwarz](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00813/full): "The Meaningfulness of Effect Sizes in Psychological Research: Differences Between Sub-Disciplines and the Impact of Potential Biases", April 2019, frontiers in Psychology.
 
 ## Replications in SE
 
