@@ -1,5 +1,19 @@
 # Registered Reports - Journal Policies
 
+## Timelines
+In general, one year is the expected time between Phase 1 submission and Phase 2 submission. Each conference will outline the specific dates. Reviewer continuity becomes challenging beyond this point.
+
+## Submission
+Submit Phase 2 registered report papers to EMSE via the [standard submission site](https://www.editorialmanager.com/emse/default2.aspx). 
+
+Under special issues, select "RR" as your special issue. 
+
+Include in your submission a cover letter which explains:
+1. the fact this is a phase 2 submission;
+2. the original venue at which phase 1 was approved;
+3. any details about study protocol changes between phase 1 and phase 2.
+
+
 ## Authorship
 Changes in authorship are permitted, however:
 
@@ -11,4 +25,4 @@ Changes in authorship are permitted, however:
 
 The author form can be obtained by contacting the journal editorial office.
 
-Updated: Aug 2022
+Updated: July 2023
