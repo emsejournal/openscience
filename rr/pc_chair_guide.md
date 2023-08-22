@@ -19,7 +19,7 @@ Please contact Neil and Teresa (the journal RR editors) before making any major 
 ## Balancing constraints: 
 - EMSE and conference quality should be paramount. We don't want to accept, even provisionally, papers that don't have the ability to make an excellent contribution to the journal and conference.
 - Author benefits: the RR track offers two main benefits. One is the immediate feedback on the research protocol. This is independent of the review process outcomes, and so *even rejected papers get this benefit*. Don't discount this! 
-- The second is the "in principle acceptance" to EMSE. We read this as equivalent to an expectation of **only minor revisions** at the second phase (and possibly "minor editorial"). IPA should NOT be granted to papers that will likely require major revisions. This undermines the benefit of RR. 
+- The second is the "in principle acceptance" to EMSE. We read this as equivalent to an expectation of **only minor revisions** at the second phase. IPA should NOT be granted to papers that will likely require major revisions. This undermines the benefit of RR. 
 - Editor/PC chair workload: as with all service, you do this as extra work. Think carefully about how much workload you may impose on yourselves in tracking down extra reviewers, vetting changes to papers, extending deadlines, managing author changes, etc. Our advice is to only accept the strongest IPA papers. 
 
 ## Calls for Papers
