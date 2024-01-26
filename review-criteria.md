@@ -11,13 +11,11 @@ Is the replication package?
 
 Downloadable behind a public URL?
 
-- Does the data and code lie behind a single URL (recommendation)?
+- Does the data and code lie behind a single URL (Recommendation: Yes)?
 
 Archived?
 
-- Is the replication package hosted on a persistent,
-    archived repository? (Recommendation: even the submitted version
-    should be hosted on an archived repository, such as [Zenodo](http://zenodo.org/) or [archive.org](https://archive.org/)
+- Is the replication package hosted on a persistent, archived repository? (Recommendation: Even the submitted version should be hosted on an archived repository, such as [Zenodo](http://zenodo.org/) or [archive.org](https://archive.org/)
 
 Documented?
 
