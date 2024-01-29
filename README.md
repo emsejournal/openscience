@@ -56,7 +56,7 @@ If you are interested in joining the board and contributing to open science at E
 
 Throughout the whole communication process, the Open Science co-Chairs serve as mediator between the authors and the Open Science Board members in a, for now, single blind process.
 
-The [Frequently Asked Questions](FAQ.md) provides additional information.
+The [Frequently Asked Questions](#faq) provides additional information.
 
 ## EMSE papers with the Open Science Badge
 
