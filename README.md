@@ -33,7 +33,6 @@ Authors should therefore use archival repositories and avoid putting data and so
 * [Daniel Méndez](https://www.mendezfe.org) (Chair), Blekinge Institute of Technology, Sweden, and fortiss GmbH, Germany
 * [René Just](https://homes.cs.washington.edu/~rjust/), University of Washington, USA
 * [Daniel Graziotin](https://ineed.coffee), University of Stuttgart, Germany
-* [Sira Vegas](http://www.grise.upm.es), Universidad Politécnica de Madrid, Spain
 * [Neil Ernst](https://www.neilernst.net/), University of Victoria, Canada
 * [Chakkrit Tantithamthavorn](http://chakkrit.com/), Monash University, Australia
 
